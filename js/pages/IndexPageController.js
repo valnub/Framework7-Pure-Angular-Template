@@ -11,4 +11,8 @@ MyApp.pages.IndexPageController = function ($scope, $http) {
   // Add your code here
   alert('IndexPageController called -> all ok');
 
+  // If you need, you can access fw7 app and angular app like this:
+  // MyApp.fw7.app
+  // MyApp.angular.app
+  
 };
