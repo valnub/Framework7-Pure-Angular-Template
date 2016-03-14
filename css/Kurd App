@@ -1,0 +1,31 @@
+#app764663 {
+2
+    color: rgb(255,255,255);
+3
+}
+4
+#app764663 button {
+5
+    color: rgb(255,255,255);
+6
+}
+7
+#app764663 .item-icon-inner .title {
+8
+    color: rgb(255,255,255);
+9
+}
+10
+#app764663 .screen.list .items {
+11
+    background-image: url(https://d1yeqpqwjn2qg3.cloudfront.net/CSPTXJfxagqoVs1KdqsKT5rR9fI=/fit-in/640x960/http://appshed-id-images.s3-website-eu-west-1.amazonaws.com/4529083);
+12
+    background-repeat: no-repeat;
+13
+    background-position: center center;
+14
+    background-size: cover;
+15
+}
+16
+ 
