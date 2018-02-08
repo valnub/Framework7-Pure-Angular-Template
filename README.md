@@ -1,5 +1,7 @@
 # Framework7-Pure-Angular-Template
 
+***This repo is not maintained any more. Please be aware that this template is very old and only compatible with Framework7 V1 and Angular 1.x***
+
 ### Compatibility
 - Framework7 v1 - yes
 - Angular 1.x - yes
